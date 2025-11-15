@@ -1,0 +1,17 @@
+# Editor
+.vscode/
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node (por si a futuro se usa bundler)
+node_modules/
+dist/
+.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
